@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/react/node_modules
 /.pnp
 .pnp.js
 
@@ -10,6 +11,25 @@
 
 # production
 /build
+/react/build
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# config gogole acces file
+/react/src/config.js
 
 # misc
 .DS_Store
@@ -18,6 +38,14 @@
 .env.test.local
 .env.production.local
 
+# Logs
+logs
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Builds
+/traproulette-linux
+/traproulette-macos
+/traproulette-win.exe

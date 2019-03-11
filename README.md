@@ -1,68 +1,99 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Traproulette 2.0
 
-## Available Scripts
+La Traproulette est réécrite dans les languages du web.
 
-In the project directory, you can run:
+La Traproulette utilise 2 frameworks pour fonctionner :
+* du **React** pour la partie frontend, en 16+ pour l'utilisation des *React Portals*, tournant dans un serveur Express. Elle utilise Google oAuth pour récupérer et écrire sur la Google Sheets de la base de données de questions.
+* du **NodeJS** en back avec une simple librairie forkée du nom de [json-server](https://github.com/lionelpnt/json-server).
 
-### `npm start`
+Ce projet a été démarré avec : [Create React App](https://github.com/facebook/create-react-app).
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Configuration initiale
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+La seule configuration initiale nécessaire, est de copier le fichier de configuration d'exemple ainsi :
 
-### `npm test`
+```
+cp react/src/config.example.js react/src/config.js
+```
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Remplissez les champs de l'objet JSON de configuration avec vos propres paramètres.
+Vous pouvez créer une application et générer un CLient-ID du côté du Google sur le lien suivant : [console.developers.google.com/apis](https://console.developers.google.com/apis/).<br>
+De nombreux tutos sont dispos pour vous aiguiller là-dessus.
 
-### `npm run build`
+## Scripts disponibles pour lancer la Traproulette
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Il y a deux arborescences dans le projet : 
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+### A la racine
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A la racine le package.json gère la compilation des deux serveurs Node. Une fois les sources React compilées, on peut y venir y faire un :
 
-### `npm run eject`
+    yarn pkg
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+pour lancer la compilation des exécutables.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+A la racine on peut également y voir le dossier **api** comprenant un fichier db.json. C'est la base de données de questionsqui est lue et actualisée par la Traproulette.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### A l'intérieur du dossier React
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### `yarn install`
 
-## Learn More
+Lance l'installation nécessaire pour faire fonctionner la Traproulette, donc récupère tout ce qui est nécessaire sur la 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### `yarn start`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Cette commence lance l'application en mode de développement. Elle démarre donc un **json-server** ainsi que le front.<br>
+Allez sur [http://localhost:3000](http://localhost:3000) pour accéder la Traproulette.
 
-### Code Splitting
+Si vous faites des changements sur le code, la page rechargera automatiquement. <br>
+Les erreurs lint sont également disponibles dans la console.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### `yarn test`
 
-### Analyzing the Bundle Size
+Lance le runner de test dans un mode interactif.<br>
+Pour plus de détails, rendez vous [sur la documentation](https://facebook.github.io/create-react-app/docs/running-tests).
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+### `yarn build`
 
-### Making a Progressive Web App
+Créé un build statique de l'application React pour la production, dans un dossier `build`.<br>
+Passer cette commande est nécessaire pour pouvoir créer une version compilée de production de la Traproulette.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+### db.json
 
-### Advanced Configuration
+```json
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "this is the first element on the collection",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "And now time for a second one...",
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "title": "... and the last one.",
+      "authorId": 1
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Santiago Camelo",
+      "email": "trikanna@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Pepe Trueno",
+      "email": "pepetrueno@gmail.com"
+    }
+  ]
+}
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+### api call
 
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+```http://localhost:4000/api/authors?_embed=post```

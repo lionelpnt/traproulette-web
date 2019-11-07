@@ -82,23 +82,9 @@ class Traproulette extends Component {
   closeWindowPortal = () => {
     this.props.traprouletteContext.setShowWindowPortal(false);
   }
-
-  checkIfQuestionAlreadyInArray = (idQuestion, questionArray) => {
-    let alreadyInArray = false;
-    let checkIfQuestionAlreadyPicked = (randomQ, i) => {
-      /*eslint eqeqeq: ["off"]*/
-      if (idQuestion == randomQ.id) {
-        alreadyInArray = true;
-      }
-    };
-
-    questionArray.map(checkIfQuestionAlreadyPicked);
-    return alreadyInArray;
-  }
-
+  
   markQuestionAsError = (idQuestion) => {
-    if (!this.checkIfQuestionAlreadyInArray(this.props.traprouletteContext.random[idQuestion].id, 
-        this.props.traprouletteContext.questionsInError)) {
+    if (!this.props.traprouletteContext.questionsInError.map((x, y) => Number(x.id)).incluces(Number(this.props.traprouletteContext.random[idQuestion].id))) {
       var newErrorArray = this.props.traprouletteContext.questionsInError.slice();
       newErrorArray.push(this.props.traprouletteContext.random[idQuestion]);
       this.props.traprouletteContext.setQuestionsInError(newErrorArray);
@@ -118,9 +104,10 @@ class Traproulette extends Component {
   getRandomQuestionOrNext = () => {
     if(this.props.traprouletteContext.showResponse) {
       if (this.props.traprouletteContext.cptQuestions === this.props.traprouletteContext.random.length) {
+        var randomNumber;
         do {
-          var randomNumber = Math.floor(Math.random() * this.props.traprouletteContext.questions.length) + 1;
-        } while(this.checkIfQuestionAlreadyInArray(randomNumber, this.props.traprouletteContext.random));
+            randomNumber = Math.floor(Math.random() * this.props.traprouletteContext.questions.length) + 1;
+        } while(this.props.traprouletteContext.random.map((x,y) => Number(x.id)).includes(Number(randomNumber)));
     
         var newRandomArray = this.props.traprouletteContext.random.slice();
         newRandomArray.push(this.props.traprouletteContext.questions[randomNumber]);   

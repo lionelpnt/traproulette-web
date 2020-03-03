@@ -48,4 +48,4 @@ yarn-error.log*
 # Builds
 /traproulette-linux
 /traproulette-macos
-/traproulette-win.exe
+/traproulette-win*

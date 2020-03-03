@@ -9,6 +9,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     color: #000000;
     line-height: 1.4;
+    overflow: hidden; /* Hide scrollbars */
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -99,6 +100,10 @@ h2 {
 .response-display {
     font-style: italic;
     font-weight: bold;
+    font-size: 3vw;
+}
+
+.question-display {
     font-size: 3.5vw;
 }
 
@@ -174,6 +179,7 @@ select {
     margin-right: 0px !important;
     margin-left: 0px !important;
     min-height: 5em;
+    max-height: 9em !important; 
 }
 
  /*Can achive using vw css unit*/

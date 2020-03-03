@@ -4,7 +4,7 @@
     {
       "id": "1",
       "categorie": "Comics",
-      "question": "Quel animal est Spiderman ?",
+      "question": "Première question de l'histoire de la traproulette ! Quel animal est Spiderman ?",
       "reponse": "Un humain",
       "sousCategorie": "Geek"
     },
@@ -837,8 +837,8 @@
     {
       "id": "120",
       "categorie": "Anime",
-      "question": "Quelle série télévisée sert de suite directe à Mobile Suit Gundam ?",
-      "reponse": "Zeta Gundam",
+      "question": "Quelle série télévisée sert de suite directe à Mobile Suit Zeta Gundam ?",
+      "reponse": "Mobile Suit Double Zeta Gundam / Double Zeta",
       "sousCategorie": "Otak"
     },
     {
@@ -1073,10 +1073,10 @@
       "sousCategorie": "Geek"
     },
     {
+      "question": "Avec une marge d'erreur de 5, combien existe-t-il de saisons des Simpsons à ce jour ?",
+      "reponse": "31",
       "id": "154",
       "categorie": "Télévision",
-      "question": "Avec une marge d'erreur de 5, combien existe-t-il de saisons des Simpsons à ce jour ?",
-      "reponse": "29",
       "sousCategorie": "Geek"
     },
     {
@@ -1111,7 +1111,7 @@
       "id": "159",
       "categorie": "Jeu Vidéo",
       "question": "Décris-moi le logo de la console Dreamcast",
-      "reponse": "Une jolie spirale bleue",
+      "reponse": "Une jolie spirale rouge (ou bleue pour les japonais)",
       "sousCategorie": "Gamer"
     },
     {
@@ -1706,7 +1706,7 @@
       "id": "244",
       "categorie": "Vie pratique",
       "question": "Sous quel nom a été renommée l'ANPE ?",
-      "reponse": "Pole emploi",
+      "reponse": "Pôle Emploi",
       "sousCategorie": "Culture G"
     },
     {
@@ -2131,10 +2131,10 @@
     },
     {
       "id": "305",
-      "categorie": "Télévision",
-      "question": "Quel ex-animateur est le créateur du blog Morandini-info ?",
-      "reponse": "Jean-Marc Morandini - Limite tu mérites quand même un peu de sortir parce que oh c'est Morandini faut pas déconner quoi",
-      "sousCategorie": "Culture G"
+      "categorie": "Anime",
+      "question": "Dans Sword Art Online, quel personnage est doublé par Aoi Yuuki ? Yuuki Asuna ou Konno Yuuki ?",
+      "reponse": "Konno Yuuki",
+      "sousCategorie": "Anime"
     },
     {
       "id": "306",
@@ -2182,7 +2182,7 @@
       "id": "312",
       "categorie": "Jeux Vidéo",
       "question": "Comment s'appelle le dernier jeu publié par Rockstar Games à l'heure actuelle ?",
-      "reponse": "Grand Theft Auto V",
+      "reponse": "Red Dead Redemption 2",
       "sousCategorie": "Gamer"
     },
     {
@@ -2214,10 +2214,10 @@
       "sousCategorie": "Otak"
     },
     {
-      "question": "Comment s'appelle le site où tu peux archiver et noter tes récents visionnages d'animes ?",
-      "reponse": "MyAnimeList, Kitsu, AniList, ou encore SensCritique",
       "id": "317",
       "categorie": "Anime/Internet",
+      "question": "Comment s'appelle le site où tu peux archiver et noter tes récents visionnages d'animes ?",
+      "reponse": "MyAnimeList, Kitsu, AniList, ou encore SensCritique",
       "sousCategorie": "Otak"
     },
     {
@@ -3579,10 +3579,10 @@
       "sousCategorie": "Otak"
     },
     {
-      "question": "Tu peux me citer une association de jeux et activités en convention qui ne soit pas Forum Thalie ?",
-      "reponse": "BulleJapon, AEUG, EFFREI, Epitanime, Sohei, Kajian, Nihon no Oto, Otaku no Jinsei...",
       "id": "512",
       "categorie": "Associaton",
+      "question": "Tu peux me citer une association de jeux et activités en convention qui ne soit pas Forum Thalie ?",
+      "reponse": "BulleJapon, AEUG, EFFREI, Epitanime, Sohei, Kajian, Nihon no Oto, Otaku no Jinsei...",
       "sousCategorie": "Délire"
     },
     {
@@ -3761,10 +3761,10 @@
       "sousCategorie": "Gamer"
     },
     {
-      "question": "Dans Mario Kart, est-ce que tu rages quand tu te prends une carapace bleue dans la face ?",
-      "reponse": "OUI (si il répond non il est éliminé, il bluffe forcément)",
       "id": "538",
       "categorie": "Jeu Vidéo",
+      "question": "Dans Mario Kart, est-ce que tu rages quand tu te prends une carapace bleue dans la face ?",
+      "reponse": "OUI (si il répond non il est éliminé, il bluffe forcément)",
       "sousCategorie": "Gamer"
     },
     {
@@ -4048,10 +4048,10 @@
       "sousCategorie": "Culture G"
     },
     {
-      "question": "Dans Risk, combien de régiments supplémentaires gagne-t-on chaque tour si l'on possède tous les territoires européens ?",
-      "reponse": "Cinq",
       "id": "579",
       "categorie": "Jeu de société",
+      "question": "Dans Risk, combien de régiments supplémentaires gagne-t-on chaque tour si l'on possède tous les territoires européens ?",
+      "reponse": "Cinq",
       "sousCategorie": "Culture G"
     },
     {
@@ -4146,10 +4146,10 @@
       "sousCategorie": "Otak"
     },
     {
-      "question": "Cite moi une série animée qui a connu en France les joies d'être disponible en VHS.",
-      "reponse": "Evangelion, Escaflowne, Utena, Cowboy Bebop, Card Captor Sakura, Harlock, etc",
       "id": "593",
       "categorie": "Anime",
+      "question": "Cite moi une série animée qui a connu en France les joies d'être disponible en VHS.",
+      "reponse": "Evangelion, Escaflowne, Utena, Cowboy Bebop, Card Captor Sakura, Harlock, etc",
       "sousCategorie": "Otak"
     },
     {
@@ -4468,10 +4468,10 @@
       "sousCategorie": "Otak"
     },
     {
-      "question": "Dans le manga \"Les Princes Du Thé\", combien de vœux peuvent exaucer les esprits du thé avant de partir ?",
-      "reponse": "Trois",
       "id": "639",
       "categorie": "Manga",
+      "question": "Dans le manga \"Les Princes Du Thé\", combien de vœux peuvent exaucer les esprits du thé avant de partir ?",
+      "reponse": "Trois",
       "sousCategorie": "Otak"
     },
     {
@@ -4685,10 +4685,10 @@
       "sousCategorie": "Culture G"
     },
     {
+      "question": "Dans une piscine municipale, on met quoi dans l'eau pour virer les saletés: de l'iode, du chlore ou du bromure ?",
+      "reponse": "Bromure (mais chlore accepté)",
       "id": "670",
       "categorie": "Sport",
-      "question": "Dans une piscine municipale on met quoi dans l'eau pour virer les saletés: de l'iode ou du chlore ?",
-      "reponse": "Chlore",
       "sousCategorie": "Culture G"
     },
     {
@@ -4757,7 +4757,7 @@
     {
       "id": "680",
       "categorie": "Conventions",
-      "question": "Dans quelle ville française se déroulait la Japan Expo Centre ?",
+      "question": "Dans quelle ville française se déroulait la Japan Expo Centre ? Ca a eu lieu en 2011 et 2012.",
       "reponse": "Orléans",
       "sousCategorie": "Otak"
     },
@@ -4853,10 +4853,10 @@
       "sousCategorie": "Otak"
     },
     {
+      "question": "Vrai ou Faux ? C'est le même studio qui a fait les quatre saisons de Full Metal Panic",
+      "reponse": "Faux, il y a Gonzo, Kyoto Animation et Xebec.",
       "id": "694",
       "categorie": "Anime",
-      "question": "Vrai ou Faux ? C'est le même studio qui a fait les trois saisons de Full Metal Panic",
-      "reponse": "Faux",
       "sousCategorie": "Otak"
     },
     {
@@ -4932,7 +4932,7 @@
     {
       "id": "705",
       "categorie": "Manga",
-      "question": "Réponds faux à cette question: Vrai ou Faux ? Le vrai nom de L c'est Théodule Gauthier.",
+      "question": "Réponds de manière erronée à cette question: Vrai ou Faux ? Le vrai nom de L c'est Théodule Gauthier.",
       "reponse": "Vrai du coup",
       "sousCategorie": "Otak"
     },
@@ -5077,10 +5077,10 @@
       "sousCategorie": "Gamer"
     },
     {
+      "question": "Quel nom est à la fois un jeu indépendant, un sport exotique et l'endroit à ne pas chercher dans Inception?",
+      "reponse": "Limbo",
       "id": "726",
       "categorie": "Jeu Vidéo",
-      "question": "Quel nom est à la fois un jeu indépendant, un sport exotique et l'endroit à pas chercher dans Inception?",
-      "reponse": "Limbo",
       "sousCategorie": "Gamer"
     },
     {
@@ -5261,7 +5261,7 @@
     {
       "id": "752",
       "categorie": "TV",
-      "question": "Si je te dis \"Tabouret, T-A-B-O-U-R-E-T\" , je joue à quel jeu télé ?",
+      "question": "Si je te dis \"Tabouret, T-A-B-O-U-R-E-T\" , je jouais à quel jeu télé ?",
       "reponse": "Motus",
       "sousCategorie": "Culture G"
     },
@@ -5282,7 +5282,7 @@
     {
       "id": "755",
       "categorie": "Internet",
-      "question": "Chante moi le chant du Nyan Cat.",
+      "question": "Chante moi le chant du Nyan Cat. On kiffait l'écouter en 2011.",
       "reponse": "Nyan Nyan Nyan",
       "sousCategorie": "Geek"
     },
@@ -5359,7 +5359,7 @@
     {
       "id": "766",
       "categorie": "Informatique",
-      "question": "Ça veut dire quoi les initiales du logiciel WLM ?",
+      "question": "Ça voulait dire quoi les initiales du logiciel WLM ? C'est le truc qui a fait la transition entre MSN et Skype.",
       "reponse": "Windows Live Messenger",
       "sousCategorie": "Geek"
     },
@@ -5987,10 +5987,10 @@
       "sousCategorie": "Culture G"
     },
     {
-      "question": "À un an près, quel âge a Yoko au début de Gurren Lagann ?",
-      "reponse": "Quatorze ans. ELLE EST PAS LEGALE.",
       "id": "856",
       "categorie": "Manga",
+      "question": "À un an près, quel âge a Yoko au début de Gurren Lagann ?",
+      "reponse": "Quatorze ans. ELLE EST PAS LEGALE.",
       "sousCategorie": "Otak"
     },
     {
@@ -6330,10 +6330,10 @@
       "sousCategorie": "Otak"
     },
     {
-      "question": "De quoi se nourrit le héros du manga Neuro ?",
-      "reponse": "De mystères (Neuro le Mange Mystères)",
       "id": "905",
       "categorie": "Manga",
+      "question": "De quoi se nourrit le héros du manga Neuro ?",
+      "reponse": "De mystères (Neuro le Mange Mystères)",
       "sousCategorie": "Otak"
     },
     {
@@ -6365,10 +6365,10 @@
       "sousCategorie": "Otak"
     },
     {
-      "question": "Cite moi deux des labels de l'éditeur Kana.",
-      "reponse": "Big Kana, Classics, Dark Kana, Kiko, Kodomo, Made In, Sensei, Shojo, Shonen ",
       "id": "910",
       "categorie": "Manga",
+      "question": "Cite moi deux des labels de l'éditeur Kana.",
+      "reponse": "Big Kana, Classics, Dark Kana, Kiko, Kodomo, Made In, Sensei, Shojo, Shonen ",
       "sousCategorie": "Otak"
     },
     {
@@ -7268,10 +7268,10 @@
       "sousCategorie": "Gamer"
     },
     {
+      "question": "Quelle est la dernière console de Nintendo à avoir utilisé des bonnes vieilles cartouches ?",
+      "reponse": "La Nintendo DS (Lite)",
       "id": "1039",
       "categorie": "Jeu Vidéo",
-      "question": "Quelle est la dernière console de Nintendo à avoir utilisé des bonnes vieilles cartouches ?",
-      "reponse": "La Game Boy Advance",
       "sousCategorie": "Gamer"
     },
     {
@@ -7422,10 +7422,10 @@
       "sousCategorie": "Otak"
     },
     {
+      "question": "Dans le manga Pokémon Blanc & Noir, quel métier pratique Blanche ?",
+      "reponse": "Elle recrute des Pokémon pour des films, des pubs...",
       "id": "1061",
       "categorie": "Manga",
-      "question": "Dans le manga Pokémon Blanc & Noir, quel métier pratique Blanche ?",
-      "reponse": "Elle recrute des pokémons pour des films, des pubs...",
       "sousCategorie": "Otak"
     },
     {
@@ -7494,8 +7494,8 @@
     {
       "id": "1071",
       "categorie": "Anime",
-      "question": "Quel est le nom du film One Piece sorti en France courant 2011 ?",
-      "reponse": "Strong World",
+      "question": "Quel est le nom du film One Piece sorti en France courant 2019 ?",
+      "reponse": "Stampede",
       "sousCategorie": "Otak"
     },
     {
@@ -7991,8 +7991,8 @@
     {
       "id": "1142",
       "categorie": "Manga",
-      "question": "Pourquoi dans Berserk Casca elle a pas la forme ?",
-      "reponse": "Elle est traumatisée des suites d'un viol",
+      "question": "Si je dis \"Bande du Faucon\", quel manga ça t'évoque ?",
+      "reponse": "Berserk",
       "sousCategorie": "Otak"
     },
     {
@@ -8027,7 +8027,7 @@
       "id": "1147",
       "categorie": "Catch",
       "question": "Cite l'un des deux champions mondiaux actuels au sein de la WWE",
-      "reponse": "Brock Lesnar / Daniel Bryan (Décembre 2018)",
+      "reponse": "Brock Lesnar / Bray Wyatt (Décembre 2019)",
       "sousCategorie": "Culture G"
     },
     {
@@ -8061,8 +8061,8 @@
     {
       "id": "1152",
       "categorie": "Anime",
-      "question": "Cite un film de Satoshi Kon",
-      "reponse": "Paprika, Perfect Blue, Tokyo Godfather, Millenium Princess",
+      "question": "Cite un film d'animation réalisé par Satoshi Kon.",
+      "reponse": "Paprika, Perfect Blue, Tokyo Godfathers, Millennium Actress",
       "sousCategorie": "Otak"
     },
     {
@@ -8586,7 +8586,7 @@
     {
       "id": "1227",
       "categorie": "Argent",
-      "question": "Je suis dans un pays ou les gens paient en livres. Je suis ou ?",
+      "question": "Je suis dans un pays ou les gens paient en livres. Où suis-je ?",
       "reponse": "Royaume-Uni",
       "sousCategorie": "Culture G"
     },
@@ -8983,10 +8983,10 @@
       "sousCategorie": "Culture G"
     },
     {
-      "question": "Comment s'appelle le 1er ministre anglais ?",
-      "reponse": "Brian Johnson",
       "id": "1284",
       "categorie": "Politique",
+      "question": "Comment s'appelle le 1er ministre anglais ?",
+      "reponse": "Brian Johnson",
       "sousCategorie": "Culture G"
     },
     {
@@ -9412,14 +9412,14 @@
     {
       "id": "1345",
       "categorie": "Télévision",
-      "question": "Sur quelle chaîne peut-on voir les Guignols ?",
+      "question": "Sur quelle chaîne pouvait-on voir les Guignols ?",
       "reponse": "Canal+",
       "sousCategorie": "Culture G"
     },
     {
       "id": "1346",
       "categorie": "Téléphonie",
-      "question": "Y'a désormais quatre opérateurs pour les téléphones portables: Bouygues, SFR, Orange et... ?",
+      "question": "Y'a désormais quatre opérateurs pour les forfaits mobiles: Bouygues, SFR, Orange et... ?",
       "reponse": "Free",
       "sousCategorie": "Geek"
     },
@@ -11727,10 +11727,10 @@
       "sousCategorie": "Otak"
     },
     {
-      "question": "A dix ans près, en quelle année est sortie la première série Macross ?",
-      "reponse": "1982",
       "id": "1676",
       "categorie": "Anime",
+      "question": "A dix ans près, en quelle année est sortie la première série Macross ?",
+      "reponse": "1982",
       "sousCategorie": "Otak"
     },
     {
@@ -13071,10 +13071,10 @@
       "sousCategorie": "Gamer"
     },
     {
+      "question": "Vrai ou Faux ? \"Like a Virgin\" de Madonna fait partie de la playlist du jeu Elite Beat Agents.",
+      "reponse": "Faux, c'est Material Girl",
       "id": "1868",
       "categorie": "Jeu Vidéo",
-      "question": "Vrai ou Faux ? \"Like a Virgin\" de Madonna fait partie de la playlist du jeu Elite Beat Agents.",
-      "reponse": "Faux (c'et Material Girl)",
       "sousCategorie": "Gamer"
     },
     {
@@ -13393,10 +13393,10 @@
       "sousCategorie": "Geek"
     },
     {
-      "question": "De quelle espèce appartient Tux, l'animal mascotte de Linux ?",
-      "reponse": "Un manchot. Il ressemble à un Manchot Adélie et à un Manchot pygmée.",
       "id": "1914",
       "categorie": "Informatique",
+      "question": "De quelle espèce appartient Tux, l'animal mascotte de Linux ?",
+      "reponse": "Un manchot. Il ressemble à un Manchot Adélie et à un Manchot pygmée.",
       "sousCategorie": "Geek"
     },
     {
@@ -14150,10 +14150,10 @@
     },
     {
       "id": "2022",
-      "categorie": "Manga",
-      "question": "Dans le manga \"Red Raven\", que répond systématiquement le héros quand on le traite de monstre ?",
-      "reponse": "\"Je sais que je suis un monstre, pas la peine de me le rappeller.\"",
-      "sousCategorie": "Otak"
+      "categorie": "Jeu Vidéo",
+      "question": "Vrai ou faux ? Trackmania est un jeu qui existe",
+      "reponse": "Vrai",
+      "sousCategorie": "Gamer"
     },
     {
       "id": "2023",
@@ -14310,10 +14310,10 @@
       "sousCategorie": "Otak"
     },
     {
+      "question": "Qu'est ce qu'un canif ?",
+      "reponse": "Un petit fien",
       "id": "2045",
       "categorie": "Délire",
-      "question": "Qu'est ce qu'un canif ?",
-      "reponse": "Un petite fien",
       "sousCategorie": "Délire"
     },
     {
@@ -15348,7 +15348,7 @@
     {
       "id": "2193",
       "categorie": "Anime / Manga",
-      "question": "Quel aliment apprend à préparer le héros de Yakitake Japan ?",
+      "question": "Quel aliment apprend à préparer le héros de Yakitate!! Ja-pan ?",
       "reponse": "Du bon pain",
       "sousCategorie": "Otak"
     },
@@ -15472,10 +15472,10 @@
       "sousCategorie": "Otak"
     },
     {
+      "question": "Complète les paroles de ce tube international: OP OP OPPAN...",
+      "reponse": "... GANGNAM STYLE °3°",
       "id": "2211",
       "categorie": "Musique",
-      "question": "Complète les paroles de ce tube international: OP OP OPEN..",
-      "reponse": "... GANGNAM STYLE °3°",
       "sousCategorie": "Culture G"
     },
     {
@@ -16615,7 +16615,7 @@
     {
       "id": "2374",
       "categorie": "Anime",
-      "question": "Comment s'appelle les extraterrestres antagonistes des héroïnes de Symphogear ?",
+      "question": "Comment s'appelle les monstres antagonistes des héroïnes de Symphogear ?",
       "reponse": "Les Noise",
       "sousCategorie": "Otak"
     },
@@ -16760,17 +16760,17 @@
       "sousCategorie": "Otak"
     },
     {
+      "question": "D'après un manga édité par Kurokawa, avec quelle autre divinité Jesus a-t-il choisi de prendre des vacances ?",
+      "reponse": "Bouddha",
       "id": "2395",
       "categorie": "Manga",
-      "question": "D'après un manga édité par Kurokawa, avec quelle autre divinité Jesus -t-il choisi de prendre des vacances ?",
-      "reponse": "Bouddha",
       "sousCategorie": "Otak"
     },
     {
-      "question": "Au début du manga (et de l'anime) Alien 9, l'héroïne est désignée par ses camarades de classe pour une tâche un peu spéciale, laquelle ?",
-      "reponse": "Protéger son collège contre les aliens",
       "id": "2396",
       "categorie": "Manga / Anime",
+      "question": "Au début du manga (et de l'anime) Alien 9, l'héroïne est désignée par ses camarades de classe pour une tâche un peu spéciale, laquelle ?",
+      "reponse": "Protéger son collège contre les aliens",
       "sousCategorie": "Otak"
     },
     {
@@ -17357,7 +17357,7 @@
     {
       "id": "2480",
       "categorie": "Culture G",
-      "question": "A 50 centimes près, quel est le prix moyen d'un Big Mac dans l'UE en Janvier 2013 ?",
+      "question": "A 50 centimes près, quel était le prix moyen d'un Big Mac dans l'UE en Janvier 2013 ?",
       "reponse": "3.59€",
       "sousCategorie": "Culture G"
     },
@@ -18419,10 +18419,10 @@
       "sousCategorie": "Otak"
     },
     {
-      "question": "Silver Spoon c'est cool ! Tu peux me donner le nom d'un autre manga dessiné par l'autrice ?",
-      "reponse": "Fullmetal Alchemist, Arslan, Hero's Tales",
       "id": "2632",
       "categorie": "Manga",
+      "question": "Silver Spoon c'est cool ! Tu peux me donner le nom d'un autre manga dessiné par l'autrice ?",
+      "reponse": "Fullmetal Alchemist, Arslan, Hero's Tales",
       "sousCategorie": "Otak"
     },
     {
@@ -19150,7 +19150,7 @@
       "id": "2736",
       "categorie": "Anime",
       "question": "Crie un faux spoiler de l'Attaque des Titans (on est à jour dans les scans du manga donc on sait si tu spoiles pour de faux ou pas.)",
-      "reponse": "LEVI EST UNE FILLE // EREN EST EN FAIT SON PERE",
+      "reponse": "LEVI EST UNE FILLE // EREN EST EN FAIT SON PROPRE PERE",
       "sousCategorie": "Otak"
     },
     {
@@ -19616,10 +19616,10 @@
       "sousCategorie": "Geek"
     },
     {
-      "question": "Dans les Simpsons, quel est le nom du milliardaire qui murmure toujours \"Excellent\" avec un sourire narquois ?",
-      "reponse": "Monsieur Burns",
       "id": "2803",
       "categorie": "Dessin Animé",
+      "question": "Dans les Simpsons, quel est le nom du milliardaire qui murmure toujours \"Excellent\" avec un sourire narquois ?",
+      "reponse": "Monsieur Burns",
       "sousCategorie": "Geek"
     },
     {
@@ -20241,7 +20241,7 @@
     {
       "id": "2892",
       "categorie": "Série TV",
-      "question": "Quelle série de la chaîne HBO parle d'une famille mafieuse new yorkaise ?",
+      "question": "Quelle série de la chaîne HBO parlait d'une famille mafieuse new yorkaise ?",
       "reponse": "Les Sopranos",
       "sousCategorie": "Geek"
     },
@@ -20738,8 +20738,8 @@
     {
       "id": "2963",
       "categorie": "Manga",
-      "question": "Napata c'est quoi ? Un personnage de Dragon Ball, un gateau de riz à l'oeuf et au soja ou une auteur de manga hentai ?",
-      "reponse": "Une auteur de hentai",
+      "question": "Napata c'est quoi ? Un personnage de Dragon Ball, un gateau de riz à l'oeuf et au soja ou un auteur de manga hentai ?",
+      "reponse": "Un auteur de hentai",
       "sousCategorie": "Otak"
     },
     {
@@ -21009,10 +21009,10 @@
       "sousCategorie": "Culture G"
     },
     {
+      "question": "Quel est le nom de code de la dernière version d'Android en date ?",
+      "reponse": "Q (à la sortie 10)",
       "id": "3002",
       "categorie": "Informatique",
-      "question": "Quel est le nom de code de la dernière version d'Androïd en date ? (sortie)",
-      "reponse": "Nougat",
       "sousCategorie": "Culture G"
     },
     {
@@ -22101,10 +22101,10 @@
       "sousCategorie": "Otak"
     },
     {
+      "question": "Dans Saint Seiya, quel chevalier réchauffe Hyouga après que celui-ci ait été liberé du cercueil de glace de Camus ?",
+      "reponse": "Shun",
       "id": "3158",
       "categorie": "Manga",
-      "question": "Saint Seiya: Quel chevalier réchauffe Hyouga après que celui-ci ait été liberé du cercueil de glace de Camus ?",
-      "reponse": "Shun",
       "sousCategorie": "Otak"
     },
     {
@@ -22236,8 +22236,8 @@
     {
       "id": "3177",
       "categorie": "Anime",
-      "question": "\"Ore no Nōnai Sentakushi ga, Gakuen Rabu Kome o Zenryoku de Jama Shiteiru\" : vous le trouverez sur Crunchyroll sous son nom abrégé, mais c'est quoi déjà ?",
-      "reponse": "Noucome",
+      "question": "Dans l'anime Tsūjō kōgeki ga zentai kōgeki de ni-kai kōgeki no okāsan wa sukidesu ka? le héros est propulsé dans un monde parallèle. Normal. Mais qui l'accompagne ?",
+      "reponse": "Sa mère (le nom anglais est Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?)",
       "sousCategorie": "Otak"
     },
     {
@@ -22320,7 +22320,7 @@
     {
       "id": "3189",
       "categorie": "Trivia",
-      "question": "Quel jeu de rôle américain édité par Catalyst Game Labs mélant cyberpunk et fantasy dans un monde uchronique a connu sa 5e réédition en 2014 ?",
+      "question": "Quel jeu de rôle papier américain édité par Catalyst Game Labs mélant cyberpunk et fantasy dans un monde uchronique a connu sa 5e réédition en 2014 ?",
       "reponse": "Shadowrun",
       "sousCategorie": "Geek"
     },
@@ -22397,8 +22397,8 @@
     {
       "id": "3200",
       "categorie": "Jeu Vidéo",
-      "question": "Combien existe t'il d'opus de la saga Kingdom Hearts sur consoles ? (hors remake)",
-      "reponse": "8 (pour 5 consoles différents)",
+      "question": "A deux près, combien existe-t-il d'opus de la saga Kingdom Hearts sur consoles ? (hors remake)",
+      "reponse": "9 (pour 5 consoles différents)",
       "sousCategorie": "Gamer"
     },
     {
@@ -22656,7 +22656,7 @@
     {
       "id": "3237",
       "categorie": "Cinéma",
-      "question": "De quel sexe est le leader des velociraptors dans Jurassic Park premier du nom ?",
+      "question": "De quel sexe est le ou la leader des velociraptors dans Jurassic Park premier du nom ?",
       "reponse": "C'est une femelle",
       "sousCategorie": "Culture G"
     },
@@ -22668,10 +22668,10 @@
       "sousCategorie": "Culture G"
     },
     {
-      "question": "De quel pays fait partie l'archipel des îles où se déroule l'intrigue du roman Jurassic Park ?",
-      "reponse": "Le Costa Rica",
       "id": "3239",
       "categorie": "Roman",
+      "question": "De quel pays fait partie l'archipel des îles où se déroule l'intrigue du roman Jurassic Park ?",
+      "reponse": "Le Costa Rica",
       "sousCategorie": "Culture G"
     },
     {
@@ -22789,7 +22789,7 @@
     {
       "id": "3256",
       "categorie": "Comics",
-      "question": "Bullseye c'est le némésis de quel super héros ?",
+      "question": "Bullseye c'est traditionnellement le némésis de quel super héros ?",
       "reponse": "Daredevil",
       "sousCategorie": "Geek"
     },
@@ -22913,10 +22913,10 @@
       "sousCategorie": "Culture G"
     },
     {
+      "question": "A 2 près, combien y a-t-il de basiliques mineures à Paris ?",
+      "reponse": "6 : Notre-Dame, Sacré Cœur, Sainte Clotilde, Notre-Dame des Victoires, Notre-Dame du Perpétuel Secours, Sainte Marie Médiatrice",
       "id": "3274",
       "categorie": "Capitale",
-      "question": "A 2 près, combien y a t'il de basiliques mineures à Paris ?",
-      "reponse": "6 (Notre-Dame, Sacré Coeur, Ste Clotilde, Notre-Dame des Victoires, Notre-Dame du perpetuel secours, Ste Marie Mediatrice, )",
       "sousCategorie": "Culture G"
     },
     {
@@ -23210,7 +23210,7 @@
       "id": "3316",
       "categorie": "Géographie",
       "question": "Vrai ou Faux ? La Macédoine est un pays qui existe vraiment",
-      "reponse": "Vrai",
+      "reponse": "Faux, c'est la Macédoine du Nord qui est un pays ! La Macédoine est une région de la Grèce",
       "sousCategorie": "Culture G"
     },
     {
@@ -23322,7 +23322,7 @@
       "id": "3332",
       "categorie": "Anime",
       "question": "Quel anime Crunchyroll voit une jeune fille aux cheveux blancs être tout le temps occupée à regarder ce que fait son voisin de classe ?",
-      "reponse": "Tonari no Seki-kun",
+      "reponse": "Tonari no Seki-kun / Seki, mon voisin de classe",
       "sousCategorie": "Otak"
     },
     {
@@ -23594,8 +23594,8 @@
     {
       "id": "3371",
       "categorie": "Manga",
-      "question": "One Piece s'est vendu à 11 885 957 exemplaires au Japon en 2014... Mais qui était le second avec 11 728 368 ventes ?",
-      "reponse": "L'Attaque des Titans",
+      "question": "Dans Chainsaw-man le héros doit faire équipe avec Power, une démone particulièrement timbrée qui a un rêve dans la vie. Lequel ?",
+      "reponse": "Avoir un Prix Nobel",
       "sousCategorie": "Otak"
     },
     {
@@ -24020,7 +24020,7 @@
     {
       "id": "3432",
       "categorie": "Manga",
-      "question": "Avant de faire un remake de One Punch Man, pour quel autre shonen était connu Yusuke Murata ?",
+      "question": "Avant de faire un remake de One Punch Man, pour quel autre shonen était connu le dessinateur Yusuke Murata ?",
       "reponse": "EyeShield21",
       "sousCategorie": "Otak"
     },
@@ -24396,10 +24396,10 @@
       "sousCategorie": "Geek"
     },
     {
+      "question": "Cite moi l'une des émissions du Joueur du Grenier où il fait du jeu de rôle aventureux ?",
+      "reponse": "Aventures / Starventures / Les Survivants",
       "id": "3486",
       "categorie": "Internet",
-      "question": "Comment s'appelle l'émission du Joueur du Grenier ou il fait du jeu de rôle aventureux ?",
-      "reponse": "Aventures",
       "sousCategorie": "Geek"
     },
     {
@@ -24672,7 +24672,7 @@
       "id": "3525",
       "categorie": "Anime",
       "question": "En quelle année Go Nagai a-t-il été l'invité de Japan Expo ?",
-      "reponse": "2008 (Tu sais, celle ou les Haruhistes ont retapissé Villepinte avec leurs stickers !)",
+      "reponse": "2008 (Tu sais, celle ou les Haruhistes ont retapissé Villepinte avec leurs stickers !) et 2019",
       "sousCategorie": "Otak"
     },
     {
@@ -24756,7 +24756,7 @@
       "id": "3537",
       "categorie": "Anime",
       "question": "Dans quelle ville trouve t-on les locaux de Kyoto Animation ?",
-      "reponse": "A KYOTO §§§",
+      "reponse": "Majoritairement à Uji mais y'a des locaux encore à Kyoto donc ok",
       "sousCategorie": "Otak"
     },
     {
@@ -24804,7 +24804,7 @@
     {
       "id": "3544",
       "categorie": "Manga",
-      "question": "Qu'est-ce qui cache le visage de Tomura Shiragaki, mystérieux méchant de My Hero Academia ?",
+      "question": "Quel truc masque le visage de Tomura Shiragaki, mystérieux méchant de My Hero Academia ?",
       "reponse": "Une main",
       "sousCategorie": "Otak"
     },
@@ -24942,10 +24942,10 @@
       "sousCategorie": "Otak"
     },
     {
+      "question": "Comment se nomme cet animé qui parle de super humains appelés les Genestella ?\nConcrete Revolutio, Divine Gate, Asterisk War ou Crossed ?",
+      "reponse": "Asterisk War",
       "id": "3564",
       "categorie": "Anime",
-      "question": "Cet animé qui parle de super humains appellés les Genestella il se nomme quoi déjà ? Concrete Revolution, Divine Gate, Asterisk War ou Crossed ?",
-      "reponse": "Asterisk War",
       "sousCategorie": "Otak"
     },
     {
@@ -25537,16 +25537,16 @@
       "sousCategorie": "Geek"
     },
     {
+      "question": "Le personnage de la Chose a-t-il été créé par DC ou Marvel ?",
+      "reponse": "Marvel Comics",
       "id": "3649",
       "categorie": "Comics",
-      "question": "DC ou Marvel ? La Chose",
-      "reponse": "Marvel Comics",
       "sousCategorie": "Geek"
     },
     {
       "id": "3650",
       "categorie": "Comics",
-      "question": "DC ou Marvel ? Green Lantern",
+      "question": "Green Lantern, vient-il de DC Comics ou bien de Marvel ?",
       "reponse": "DC Comics",
       "sousCategorie": "Geek"
     },
@@ -26139,10 +26139,10 @@
       "sousCategorie": "Geek"
     },
     {
+      "question": "Dans South Park, quel film se fait échanger avec le DVD porno que Randy a loué ?",
+      "reponse": "Le Seigneur des Anneaux",
       "id": "3735",
       "categorie": "Dessin Animé",
-      "question": "Dans South Park, quel film se fait échanger avec le DVD porno que Randy a loué ?",
-      "reponse": "Le Seigneur des Anneux",
       "sousCategorie": "Geek"
     },
     {
@@ -26393,7 +26393,7 @@
     {
       "id": "3771",
       "categorie": "Anime / Manga",
-      "question": "Quel personnage de Full Metal Alchemist promet, si il devient Fuhrer, de faire porter à toutes les filles de l'armée de somptueuses minijupes ?",
+      "question": "Quel personnage de Full Metal Alchemist promet, s'il devient Fuhrer, de faire porter à toutes les filles de l'armée de somptueuses mini-jupes ?",
       "reponse": "Roy Mustang",
       "sousCategorie": "Otak"
     },
@@ -26860,10 +26860,10 @@
       "sousCategorie": "Otak"
     },
     {
-      "question": "Les héroïnes de Urara Meirochou apprennent à devenir quoi ?",
-      "reponse": "Des voyantes",
       "id": "3838",
       "categorie": "Anime",
+      "question": "Les héroïnes de Urara Meirochou apprennent à devenir quoi ?",
+      "reponse": "Des voyantes",
       "sousCategorie": "Otak"
     },
     {
@@ -26897,7 +26897,7 @@
     {
       "id": "3843",
       "categorie": "Jeu Vidéo",
-      "question": "2B et 9S sont les héros de quel jeu PS4 ?",
+      "question": "2B et 9S sont les héros de quel jeu ?",
       "reponse": "Nier Automata",
       "sousCategorie": "Gamer"
     },
@@ -26954,7 +26954,7 @@
       "id": "3851",
       "categorie": "Culture G",
       "question": "Quel est le monument le plus visité de Paris ?",
-      "reponse": "Notre-Dame",
+      "reponse": "Notre-Dame (rip)",
       "sousCategorie": "Culture G"
     },
     {
@@ -27276,7 +27276,7 @@
       "id": "3897",
       "categorie": "Anime",
       "question": "Dans quel film d'animation peut-on entendre le groupe Radwimps très régulièrement ?",
-      "reponse": "Your Name",
+      "reponse": "Your Name / Weathering with You",
       "sousCategorie": "Otak"
     },
     {
@@ -27296,7 +27296,7 @@
     {
       "id": "3900",
       "categorie": "Anime",
-      "question": "De quelle série animée le film \"Liz and the Blue Bird\" est-il un spin off ?",
+      "question": "De quelle série animée le film \"Liz & l'Oiseau Bleu\" est-il un spin off ?",
       "reponse": "Sound! Euphonium",
       "sousCategorie": "Otak"
     },
@@ -27492,7 +27492,7 @@
     {
       "id": "3928",
       "categorie": "Anime",
-      "question": "Quel point commun relie les animes Devilman Crybaby, B the Beginning et AICO Incarnation ?",
+      "question": "Quel point commun relie les animes Devilman Crybaby, Baki et AICO Incarnation ?",
       "reponse": "Animes exclusifs Netflix",
       "sousCategorie": "Otak"
     },
@@ -27786,7 +27786,7 @@
     {
       "id": "3970",
       "categorie": "Littérature",
-      "question": "Dans la saga Téméraire, on revit les gerres Napoléoniennes en y rajoutant un un aspect que vous ne trouverez pas dans les livres d'histoire, lequel ?",
+      "question": "Dans la saga Téméraire, on revit les guerres Napoléoniennes en y rajoutant un un aspect que vous ne trouverez pas dans les livres d'histoire, lequel ?",
       "reponse": "Il y a des dragons",
       "sousCategorie": "Culture G"
     },
@@ -27996,9 +27996,9 @@
     {
       "id": "4000",
       "categorie": "Anime",
-      "question": "Quel franchise crossmédia pantalonnesque a fêté ses 10 ans le dimanche 8 juillet 2018 ?",
-      "reponse": "Strike Witches",
-      "sousCategorie": "Otak"
+      "question": "Question 4000 ! A six mois près, peux tu me dire la date officielle de fondation de l'asso Forum Thalie ?",
+      "reponse": "22 Décembre 2009, on est des papys",
+      "sousCategorie": "Culture G"
     },
     {
       "id": "4001",
@@ -28144,14 +28144,14 @@
       "id": "4021",
       "categorie": "Manga / Anime",
       "question": "Un jour dans Hanebado, Ayano a perdu un match parce qu'elle était malade. Qu'a fait sa mère ?",
-      "reponse": "Elle s'est barrée",
+      "reponse": "Elle s'est barrée dans un autre pays. RADICAL.",
       "sousCategorie": "Otak"
     },
     {
       "id": "4022",
       "categorie": "Anime",
       "question": "Cite un anime centré sur un jeu de raquettes",
-      "reponse": "Prince of Tennis, Baby Steps, Hanebado, Ping Poing...",
+      "reponse": "Prince of Tennis, Baby Steps, Hanebado, Ping Poing, Stars Align...",
       "sousCategorie": "Otak"
     },
     {
@@ -28351,10 +28351,10 @@
       "sousCategorie": "Otak"
     },
     {
-      "question": "Dans les Brigades Immunitaires, quelle catégorie de cellules de notre corps est personnifiée en un mignon petit enfant ?",
-      "reponse": "Thrombocyte (plaquettes sanguines)",
       "id": "4051",
       "categorie": "Manga / Anime",
+      "question": "Dans les Brigades Immunitaires, quelle catégorie de cellules de notre corps est personnifiée en un mignon petit enfant ?",
+      "reponse": "Thrombocyte (plaquettes sanguines)",
       "sousCategorie": "Otak"
     },
     {
@@ -28792,16 +28792,16 @@
       "sousCategorie": "Otak"
     },
     {
-      "question": "Peux-tu citer l'une des deux héroïnes humaines de la série Kemono Friends ?",
-      "reponse": "Cabas (Kaban) / Kyururu ",
       "id": "4114",
       "categorie": "Anime",
+      "question": "Peux-tu citer l'une des deux héroïnes humaines de la série Kemono Friends ?",
+      "reponse": "Cabas (Kaban) / Kyururu ",
       "sousCategorie": "Otak"
     },
     {
       "id": "4115",
       "categorie": "Manga",
-      "question": "Qu'est-ce que mange le héros de Jujutsu Kaisen qui amène pas mal d'ennuis ?",
+      "question": "Qu'est-ce que mange le héros de Jujutsu Kaisen, ce qui amène pas mal d'ennuis ?",
       "reponse": "Un doigt contenant un esprit démoniauqe",
       "sousCategorie": "Otak"
     },
@@ -28827,10 +28827,10 @@
       "sousCategorie": "Culture G"
     },
     {
-      "question": "Cite un moi un jeu qui met en scène des \"battle royale\"",
-      "reponse": "PUBG, Fortnite, Apex Legends, Tetris 99...",
       "id": "4119",
       "categorie": "Jeu Vidéo",
+      "question": "Cite un moi un jeu qui met en scène des \"battle royale\"",
+      "reponse": "PUBG, Fortnite, Apex Legends, Tetris 99...",
       "sousCategorie": "Gamer"
     },
     {
@@ -29242,7 +29242,7 @@
     {
       "id": "4178",
       "categorie": "Anime",
-      "question": "Lequel de ces quatre films japonais n'est pas sorti au Japon en 2019: Liz & l'oiseau bleu, Ride your Wave, Les Enfants de la Mer ou Weathering with You ?",
+      "question": "Lequel de ces quatre films japonais n'est pas sorti au Japon en 2019: Liz & l'oiseau bleu, Ride your Wave, Les Enfants de la Mer ou Les Enfants du Temps ?",
       "reponse": "Liz & L'Oiseau Bleu (mai 2018)",
       "sousCategorie": "Otak"
     },
@@ -29312,7 +29312,7 @@
     {
       "id": "4188",
       "categorie": "Littérature",
-      "question": "Livre pour enfants des années 1930, \"Le Train de nuit dans la Voie Lactée\" de Kenji Miyazawa a été souvent adapté ou cité comme inspiration dans l'animation japonaise. Mais comment s'appelle ses deux héros ?",
+      "question": "Livre pour enfants des années 1930, \"Le Train de nuit dans la Voie Lactée\" de Kenji Miyazawa a été souvent adapté ou cité comme inspiration dans l'animation japonaise. Mais comment s'appellent ses deux héros ?",
       "reponse": "Giovanni et Campanella",
       "sousCategorie": "Culture G"
     },
@@ -29466,7 +29466,7 @@
     {
       "id": "4210",
       "categorie": "Musique",
-      "question": "Vrai ou faux : on a découvert en 2012 que Etienne Daho et Axel Bauer sont le même chanteur, sous un pseudo différent ?",
+      "question": "Vrai ou faux : on a découvert en 2012 que Etienne Daho et Axel Bauer c'est le même chanteur, sous un pseudo différent ?",
       "reponse": "Faux",
       "sousCategorie": "Culture G"
     },
@@ -29758,10 +29758,10 @@
       "sousCategorie": "Gamer"
     },
     {
+      "question": "Vrai ou Faux ? Red a déjà parlé dans un jeu Pokémon",
+      "reponse": "Maintenant, oui ! Dans Pokémon Masters, il dit \"les mots ne sont pas nécessaires\".",
       "id": "4252",
       "categorie": "Jeux Vidéo",
-      "question": "Vrai ou Faux ? Red a déjà parlé dans un jeu Pokémon",
-      "reponse": "... (non)",
       "sousCategorie": "Gamer"
     },
     {
@@ -29829,159 +29829,983 @@
     },
     {
       "id": "4262",
-      "sousCategorie": ""
+      "categorie": "Japon",
+      "question": "Peux-tu me citer une enseigne de conbini au Japon ? ",
+      "reponse": "7-Eleven / Lawson / FamilyMart / Ministop / Seiko Mart / Coco Store",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4263",
-      "sousCategorie": ""
+      "categorie": "Musique",
+      "question": "Quelle seiyû a eu sa voix synthétisée pour obtenir celle d'Hatsune Miku ?",
+      "reponse": "Saki Fujita",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4264",
-      "sousCategorie": ""
+      "categorie": "Anime / Manga",
+      "question": "Dans quel manga, adapté en anime en 2019, peut-on croiser un gars plutôt balèze nommé Thors ?",
+      "reponse": "Vinland Saga",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4265",
-      "sousCategorie": ""
+      "categorie": "Anime",
+      "question": "Dans l'anime Granbelm, qu'est-ce qu'obtient la gagnante du Granbelm, grande battle royale entre mages ? ",
+      "reponse": "Le voeu de son choix",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4266",
-      "sousCategorie": ""
+      "categorie": "Anime",
+      "question": "Qu'est-ce qu'apprend l'héroïne de Dumbbell ? ",
+      "reponse": "A se muscler / A s'exercer",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4267",
-      "sousCategorie": ""
+      "categorie": "Manga",
+      "question": "Quel sport retrouve t-on au centre du manga Mai Ball ?",
+      "reponse": "Football (féminin)",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4268",
-      "sousCategorie": ""
+      "categorie": "Manga",
+      "question": "L'héroïne de Mai Ball est une footballeuse hyper forte... mais comment elle est devenue hyper forte ?",
+      "reponse": "Elle s'est entrainée chaque matin pendant quinze ans avec le meilleur espoir japonais dans l'espoir de le draguer",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4269",
-      "sousCategorie": ""
+      "categorie": "Anime Manga",
+      "question": "Dans Demon Slayer, y'a le pilier du feu, de l'eau, du vent, de la roche, du son, du serpent, de l'insecte, de la brume et... euh c'est quoi le dernier déjà ?",
+      "reponse": "L'amour <3",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4270",
-      "sousCategorie": ""
+      "categorie": "Anime Manga",
+      "question": "Quelle est la couleur de la lame de Tanjiro, dans Demon Slayer ?",
+      "reponse": "Noire",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4271",
-      "sousCategorie": ""
+      "categorie": "Géographie française",
+      "question": "Aujourd'hui c'est Caen ou Rouen la capitale politique de la Normandie ?",
+      "reponse": "Caen (qui héberge le conseil régional)",
+      "sousCategorie": "Culture G"
     },
     {
       "id": "4272",
-      "sousCategorie": ""
+      "categorie": "Sport & JV",
+      "question": "C'est quel footballeur qui a fait une danse Fornite pour célébrer un but marqué lors d'une finale de coupe du monde ?",
+      "reponse": "Antoine Griezmann",
+      "sousCategorie": "Culture G"
     },
     {
       "id": "4273",
-      "sousCategorie": ""
+      "categorie": "Jeu Vidéo",
+      "question": "Quel jeu en ligne a simulé \"la fin du monde\" pour lancer une nouvelle version quelques jours après ?",
+      "reponse": "Final Fantasy XIV / Fortnite",
+      "sousCategorie": "Gamer"
     },
     {
       "id": "4274",
-      "sousCategorie": ""
+      "categorie": "Japon",
+      "question": "Si au Japon je vais dans une boutique nommée Lashinbang, qu'est-ce que je vais y trouver ?",
+      "reponse": "Des trucs otakus d'occasion (CD, DVD, mangas, figurines...)",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4275",
-      "sousCategorie": ""
+      "categorie": "Anime Manga",
+      "question": "Tu peux me pitcher le manga Fire Force ?",
+      "reponse": "\"C'est des pompiers, euh, ils doivent combattre des personnes qui ont prises feu...\"",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4276",
-      "sousCategorie": ""
+      "categorie": "Manga Anime",
+      "question": "Quel peuple historique retrouve t-on au coeur du manga Vinland Saga ?",
+      "reponse": "Vikings / Danois / Normands",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4277",
-      "sousCategorie": ""
+      "categorie": "Manga Anime",
+      "question": "Quel métier pratiquent les héros de Planetes ?",
+      "reponse": "Nettoyeurs spatiaux",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4278",
-      "sousCategorie": ""
+      "categorie": "Manga",
+      "question": "Dans One Piece, quel arc se déroule sur une île où tout ressemble quand même pas mal au Japon féodal ?",
+      "reponse": "Arc Wano",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4279",
-      "sousCategorie": ""
+      "categorie": "Manga",
+      "question": "Vrai ou faux ? Dans My Hero Academia un héros s'appelle... Lemillion ",
+      "reponse": "Vrai",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4280",
-      "sousCategorie": ""
+      "categorie": "Manga Anime",
+      "question": "(Hero Academia) Comment fonctionne l'Alter de Bakugo ? Il peut faire exploser des trucs, ok, mais comment il fait ça ?",
+      "reponse": "Sa sueur est en fait de la nitroglycérine",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4281",
-      "sousCategorie": ""
+      "categorie": "Manga Anime",
+      "question": "(Hero Academia) Qui est le fils d'Endeavor, le héros n°2 au classement général ?",
+      "reponse": "Shôto Todoroki",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4282",
-      "sousCategorie": ""
+      "categorie": "Cinéma",
+      "question": "Cite une des cinq personnes qui a réussi à tenir le marteau Mjolnir dans le MCU ?",
+      "reponse": "Thor, Odin, Hela, Vision, Captain America",
+      "sousCategorie": "Geek"
     },
     {
       "id": "4283",
-      "sousCategorie": ""
+      "categorie": "Cinéma",
+      "question": "Dans le film Ad Astra, sorti en 2019, qui Brad Pitt part retrouver aux tréfonds du système solaire ?",
+      "reponse": "Son père",
+      "sousCategorie": "Geek"
     },
     {
       "id": "4284",
-      "sousCategorie": ""
+      "categorie": "Japon",
+      "question": "Le Kenroku-en de Kanazawa, le Koraku-en d'Okayama et le Kairoku-en de Mito... c'est quoi ?",
+      "reponse": "\"Les trois grands jardins les plus célèbres du Japon\"",
+      "sousCategorie": "Culture G"
     },
     {
       "id": "4285",
-      "sousCategorie": ""
+      "categorie": "Japon",
+      "question": "Quel animal vadrouille librement dans les rues de la ville historique de Nara ?",
+      "reponse": "Daims",
+      "sousCategorie": "Culture G"
     },
     {
       "id": "4286",
-      "sousCategorie": ""
+      "categorie": "Gastronomie",
+      "question": "Une fois au Japon j'ai mangé un taiyaki c'était bon... mais c'est quoi un taiyaki au fait ?",
+      "reponse": "Patisserie fourrée à la crème (souvent de haricots rouges)",
+      "sousCategorie": "Culture G"
     },
     {
       "id": "4287",
-      "sousCategorie": ""
+      "categorie": "Gastronomie",
+      "question": "Dans quelle ville française aurait été crée le camembert ?",
+      "reponse": "Dans la ville de Camembert, Calvados",
+      "sousCategorie": "Culture G"
     },
     {
       "id": "4288",
-      "sousCategorie": ""
+      "categorie": "Anime",
+      "question": "Lio, au début de Promare, c'est un pompier ou un terroriste ?",
+      "reponse": "Un terroriste abusivement sexy",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4289",
-      "sousCategorie": ""
+      "categorie": "Anime",
+      "question": "Dans quel manga et anime des enfants essayent de retrouver un gars nommé Minerva ?",
+      "reponse": "The Promised Neverland",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4290",
-      "sousCategorie": ""
+      "categorie": "Manga Anime",
+      "question": "Dans l'anime \"O Maidens in your savage season\", qu'est-ce que veulent découvrir à tout prix les héroïnes ?",
+      "reponse": "Le sexe",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4291",
-      "sousCategorie": ""
+      "categorie": "Anime",
+      "question": "Dans quel anime, adapté d'un light novel, voit-on \"l'Empire\" se battre contre \"la République\", \"la Coalition\" ou bien \"la Fédération\" ?",
+      "reponse": "Youjo Senki: saga of Tanya the Evil",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4292",
-      "sousCategorie": ""
+      "categorie": "Manga Anime",
+      "question": "Dans Sword Art Online Alicization, comment est le plus souvent habillé le personnage de Quinella, l'Administratrice ?",
+      "reponse": "Elle est souvent PAS habillée",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4293",
-      "sousCategorie": ""
+      "categorie": "Manga Anime",
+      "question": "(SAO) Imagine t'es un habitant de l'Underworld, tu fais un acte interdit par les règles du serveur et ton oeil droit commence à afficher un message d'erreur. Il se passe quoi si tu continues ?",
+      "reponse": "Ton oeil EXPLOSE",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4294",
-      "sousCategorie": ""
+      "categorie": "Manga Anime",
+      "question": "Dans Fullmetal Alchemist, les habitants de l'empire de Xing ne font pas de l'alchimie, ils font... ",
+      "reponse": "De l'elixirologie",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4295",
-      "sousCategorie": ""
+      "categorie": "Manga Anime",
+      "question": "Dans quel manga un personnage, au lieu de dire qu'il pleure, préfère dire qu'il s'est mis à pleuvoir, histoire de garder la face ? ",
+      "reponse": "Fullmetal Alchemist",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4296",
-      "sousCategorie": ""
+      "categorie": "Manga",
+      "question": "Dans quel manga des pirates se mettent à faire de la boxe pour essayer de récupérer le bateau de l'autre ?",
+      "reponse": "Bah c'est One Piece",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4297",
-      "sousCategorie": ""
+      "categorie": "Anime",
+      "question": "Tu peux me citer un anime qui met en scène des pirates... mais qui soit pas One Piece ?",
+      "reponse": "Mouretsu Pirates ; Albator ? ; Porco Rosso ; Le Chateau dans le Ciel ; Black Lagoon ; Outlaw Star",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4298",
-      "sousCategorie": ""
+      "categorie": "Japon",
+      "question": "Si au Japon je croise un truc nommé \"Asahi Shinbun\", je croise quoi ? ",
+      "reponse": "Le quotidien le plus vendu du pays",
+      "sousCategorie": "Culture G"
     },
     {
       "id": "4299",
-      "sousCategorie": ""
+      "categorie": "Manga Anime",
+      "question": "Dans My Hero Academia, un petit vieillard est chargé de former Deku, te souviens tu de son nom ?",
+      "reponse": "Gran Torino",
+      "sousCategorie": "Otak"
     },
     {
       "id": "4300",
-      "sousCategorie": ""
+      "categorie": "Anime",
+      "question": "Dans Paranoia Agent un gamin nommé Shonen Bat agresse de manière arbitraire des gens mais avec l'aide de quelle arme ?",
+      "reponse": "Batte de base-ball",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4301",
+      "categorie": "Anime",
+      "question": "Satoshi Kon a réalisé quatre films, dont Paprika et Perfect Blue, mais a aussi réalisé une série au milieu des années 2000. Laquelle ?",
+      "reponse": "Paranoia Agent",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4302",
+      "categorie": "Anime",
+      "question": "Sauras tu me citer une franchise sur laquelle a bossée le réalisateur et designer Shoji Kawamori ?",
+      "reponse": "Macross, Aquarion, Transformers",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4303",
+      "categorie": "Série TV",
+      "question": "L'héroïne de The Good Place est très mal à l'aise pendant toute la saison 1. Pourquoi ?",
+      "reponse": "Elle a été envoyée au paradis par erreur et à peur que tout le monde s'en rende compte",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4304",
+      "categorie": "Série TV",
+      "question": "Dans quel milieu prend place l'intrigue de la série japonaise Netflix nommée Naked Director ?",
+      "reponse": "Industrie du porno",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4305",
+      "categorie": "Manga",
+      "question": "Dans Promised Neverland, William Minerva est représenté par une chouette. Pourquoi c'est logique qu'un gars nommé Minerva soit représenté par une chouette ?",
+      "reponse": "La chouette était l'animal emblème de Athéna-Minerve dans la mythologie gréco-romaine",
+      "sousCategorie": "Culture G"
+    },
+    {
+      "id": "4306",
+      "categorie": "Mythologie",
+      "question": "Le dieu grec Cronos il faisait quoi de ses gosses ?",
+      "reponse": "Il les mangeait. Vous faites pas ça vous aussi ?",
+      "sousCategorie": "Culture G"
+    },
+    {
+      "id": "4307",
+      "categorie": "Anime",
+      "question": "Dans Stars Align, pourquoi le club masculin de \"soft tennis\" il est trop dans la mouise au début de la série ?",
+      "reponse": "Parce qu'il est décidé que l'école filera plus de budget aux équipes nulles, et ils sont nuls",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4308",
+      "categorie": "Manga",
+      "question": "(The Promised Neverland) Tu peux me citer le nom d'un enfant de l'orphelinat qui ne soit ni Emma, ni Ray, ni Norman ?",
+      "reponse": "Don, Gilda, Conny, Anna, Nat, PHIL.",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4309",
+      "categorie": "Anime",
+      "question": "Dans Vinland Saga quelle est l'arme \"signature\" de Thorkell le Grand ?",
+      "reponse": "Les rondins de bois (ou les très grosses pierres)",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4310",
+      "categorie": "Manga",
+      "question": "Quel est le nom de ce spin-off manga de Sword Art Online centré sur les aventures de Leafa, Sinon, Silica et Lisbeth ?",
+      "reponse": "Girls Ops",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4311",
+      "categorie": "Jeu Vidéo",
+      "question": "Quel métier pratiques tu dans le jeu cyberpunk VA11-HA11A ?",
+      "reponse": "Barmaid",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4312",
+      "categorie": "Jeu Vidéo",
+      "question": "Quel est le nom de ce jeu Switch dans lequel tu joues le rôle d'une oie particulièrement remontée contre la société ?",
+      "reponse": "Untitled Goose Game",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4313",
+      "categorie": "Jeu Vidéo",
+      "question": "Astral Chain est un jeu sorti sur quelle console ?",
+      "reponse": "Switch",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4314",
+      "categorie": "Anime",
+      "question": "Quel métier pratiquait le héros de l'anime Kemono Michi: Rise Up avant d'être transporté dans un monde parallèle ?",
+      "reponse": "Catcheur",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4315",
+      "categorie": "Catch",
+      "question": "Quel catcheur appellait ses fans les \"Hulkamaniacs\" ?",
+      "reponse": "Hulk Hogan",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4316",
+      "categorie": "Internet",
+      "question": "Si je veux sur un site internet nommé AO3, qu'est-ce que je vais trouver ?",
+      "reponse": "Des fanfictions",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4317",
+      "categorie": "Internet",
+      "question": "Tu peux m'expliquer le concept de TikTok ?",
+      "reponse": "Mini-vidéos musicales",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4318",
+      "categorie": "Informatique",
+      "question": "Il se passe quoi si je fais Alt+F4 sur mon clavier ?",
+      "reponse": "Je ferme la fenêtre du programme qui est ouvert",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4319",
+      "categorie": "Cinéma",
+      "question": "Le jour, quel métier pratique Arthur Fleck, protagoniste du film Joker ?",
+      "reponse": "Clown de rue",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4320",
+      "categorie": "Manga Anime",
+      "question": "(FMA) Quelle structure militaire défend le général Olivier Armstrong et son armée ?",
+      "reponse": "La forteresse de Briggs",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4321",
+      "categorie": "Simulcast",
+      "question": "Te souviens tu de la première série animée qui a été officiellement simulcastée sur l'internet français ? Indice : c'était en 2009",
+      "reponse": "Fullmetal Alchemist: Brotherhood (c'était par Dybex et sur Dailymotion)",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4322",
+      "categorie": "Manga Anime",
+      "question": "A quel autre grand héros de la japanimation peut-on lier le personnage de Queen Emeraldas ?",
+      "reponse": "Albator (c'est le même univers)",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4323",
+      "categorie": "Géographie",
+      "question": "Dans quelle hémisphère se situe l'Inde ?",
+      "reponse": "Hémisphère nord",
+      "sousCategorie": "Culture G"
+    },
+    {
+      "id": "4324",
+      "categorie": "Jeu Vidéo",
+      "question": "Contre quoi sont immunisés les Pokémon de type sol ?",
+      "reponse": "Les attaques électrik",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4325",
+      "categorie": "Jeu Vidéo",
+      "question": "Que se passe-t-il si mon Sabelette lance une attaque séisme sur un Libégon ?",
+      "reponse": "Rien du tout, Libégon a la capacité spéciale \"lévitation\" qui l'immunise des attaques de type sol",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4326",
+      "categorie": "Jeu Vidéo",
+      "question": "Combien y a-t-il de types de Pokémon, disons à 3 prêt ?",
+      "reponse": "18",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4327",
+      "categorie": "Jeu Vidéo",
+      "question": "Quelle est la console de jeu la plus vendue de tous les temps ?",
+      "reponse": "La PlayStation 2 (+155 millions de ventes)",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4328",
+      "categorie": "Cinéma",
+      "question": "Si un jour on papote sur des films toi et moi, que t'évoque la date du 21 octobre 2015 ?",
+      "reponse": "C'est la date à laquelle Marty et Doc arrivent dans le \"\"\"futur\"\"\"",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4329",
+      "categorie": "Cinéma",
+      "question": "Quelle est la vitesse nécessaire pour voyager dans le temps selon Doc Brown ?",
+      "reponse": "88 MILES À L'HEURE !!!",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4330",
+      "categorie": "Cinéma",
+      "question": "Dans \"Retour vers le futur\", comment s'appelle le chien du Doc ?",
+      "reponse": "Einstein (ou Copernic en 1955)",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4331",
+      "categorie": "Dessin Animé",
+      "question": "Complète les paroles du générique de Foot 2 Rue: \"Amitié, Respect....\"",
+      "reponse": "... Foot 2 Rue !",
+      "sousCategorie": "Culture G"
+    },
+    {
+      "id": "4332",
+      "categorie": "Anime Manga",
+      "question": "Comment s'appelle ce ptit café de Tokyo dans lequel les héros de Tokyo Ghoul peuvent venir se réfugier ? ",
+      "reponse": "L'Antique",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4333",
+      "categorie": "Anime",
+      "question": "Dans Hitsugi no Chaika, que veut faire... Chaika ?",
+      "reponse": "Retrouver les membres de son père décédé, un Empereur maléfique",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4334",
+      "categorie": "Manga Anime",
+      "question": "Dans Berserk, quel personnage est quasiment toujours escorté par un denommé Serpico ?",
+      "reponse": "Farnese",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4335",
+      "categorie": "Manga",
+      "question": "Le manga Spy X Family nous fait suivre une famille... de combien de personnes ?",
+      "reponse": "Trois - le papa, la maman, la ptite fille. On accepte Quatre si tu comptes le chien.",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4336",
+      "categorie": "Manga",
+      "question": "Quel manga du Jump nous fait suivre une héroïne nommée Kei Yonagi qui va se jeter à corps perdu dans la pratique d'un art ?",
+      "reponse": "Act-Age",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4337",
+      "categorie": "Anime Manga",
+      "question": "Est-ce que tu peux me citer un manga de romance qui met en scène un héros chargé de donner des cours particuliers à plusieurs filles ?",
+      "reponse": "We Never Learn, The Quintessential Quintuplets.... GTO si tu veux abuser...",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4338",
+      "categorie": "Manga",
+      "question": "Dans The Quintessential Quintuplets, c'est laquelle des cinq soeurs qui a une ptite passion pour la nourriture ?",
+      "reponse": "Itsuki",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4339",
+      "categorie": "Manga",
+      "question": "Dans The Quintessential Quintuplets, c'est laquelle des cinq soeurs qui fait plein de sports différents parce qu'elle sait pas dire non ?",
+      "reponse": "Yotsuba",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4340",
+      "categorie": "Manga",
+      "question": "Dans The Quintessential Quintuplets, c'est laquelle des cinq soeurs qui est passionnée par le Japon médieval ?",
+      "reponse": "Miku",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4341",
+      "categorie": "Manga",
+      "question": "Dans The Quintessential Quintuplets, c'est laquelle des cinq soeurs qui a des broches à cheveux en forme de papillon ?",
+      "reponse": "Nino",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4342",
+      "categorie": "Manga",
+      "question": "Dans The Quintessential Quintuplets, c'est laquelle des cinq soeurs qui a déjà une carrière bien entamée dans le monde du cinéma ?",
+      "reponse": "Ichika",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4343",
+      "categorie": "Manga",
+      "question": "Quel est le nom de l'héroïne du manga de super-héros SHY ?",
+      "reponse": "SHY / Momijiyama Teru",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4344",
+      "categorie": "Anime",
+      "question": "Est-ce que tu peux citer un truc qui arrive dans l'une des cinq saisons de Symphogear ?",
+      "reponse": "Le K2 se fait démolir, la Lune se fait démolir, le président US envoie des bombes nucléaires, Chris mange des spaghettis....",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4345",
+      "categorie": "Manga",
+      "question": "Il a fait quel autre manga l'auteur de Samurai 8 ?",
+      "reponse": "Naruto, Mario, Bench, Karakuri",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4346",
+      "categorie": "Manga Anime",
+      "question": "Si je rejoins une bande de mercenaires nommés les Taureaux Noirs, je suis dans quel manga ?",
+      "reponse": "Black Clover",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4347",
+      "categorie": "Manga Anime",
+      "question": "C'est quoi le nom de la cousine de Noelle dans Black Clover ? Tu sais celle qui est dans l'Aube Dorée et qui a des pouvoirs de guérison... Elle a un nom français et tout...",
+      "reponse": "Mimosa\n",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4348",
+      "categorie": "Manga",
+      "question": "Est-ce que tu peux citer un sport dont t'es à peu près sûr qu'il existe pas de manga dessus ? ",
+      "reponse": "La pétanque ?",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4349",
+      "categorie": "Manga",
+      "question": "Le manga nommé Sweep, sorti en 2009 au Japon, est assez méconnu mais c'est le seul manga qui couvre un sport bien précis. Lequel à ton avis ?",
+      "reponse": "Le curling",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4350",
+      "categorie": "Manga Anime",
+      "question": "Dans quelle région du Japon les héros de Food Wars vont-ils prendre un train qui sera l'occasion pour eux de faire plein de combats ?",
+      "reponse": "Hokkaido",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4351",
+      "categorie": "Japon",
+      "question": "A Kyoto y'a le pavillon d'or, ok il est connu. Mais du coup est-ce que y'a un pavillon d'argent ?",
+      "reponse": "Oui !",
+      "sousCategorie": "Culture G"
+    },
+    {
+      "id": "4352",
+      "categorie": "Jeu Vidéo",
+      "question": "Cite une des 4 aventures incluses dans le jeu Shovel Knight",
+      "reponse": "Shovel of Hope / Plague of Shadows / Specter of Torment / King of Cards",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4353",
+      "categorie": "Jeu Vidéo",
+      "question": "Dans l'univers de Granblue Fantasy tu peux me citer une des caractéristiques physiques de la race des Draph ?",
+      "reponse": "Petite taille / Grosse musculature / Gros nichons / Element Terre ou Feu / Cornes",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4354",
+      "categorie": "Cinéma",
+      "question": "Est-ce que l'empereur Palpatine a eu du sexe ?",
+      "reponse": "Oui, c'est canon, merci Star Wars IX",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4355",
+      "categorie": "Informatique",
+      "question": "Quand j'étais jeune j'utilisais le logiciel AIM. A quoi me servait-il ?",
+      "reponse": "C'était un logiciel de discussion",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4356",
+      "categorie": "Trivia",
+      "question": "Quel quartier de Paris peut être associé à Morsay, le truand 2 la galère ?",
+      "reponse": "Clignancourt",
+      "sousCategorie": "Délire"
+    },
+    {
+      "id": "4357",
+      "categorie": "Cinéma",
+      "question": "Dans quel \"James Bond\" Daniel Craig a-t-il débuté ?",
+      "reponse": "Casino Royale, en 2007",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4358",
+      "categorie": "Manga Anime",
+      "question": "Que signifie le terme \"zettai ryôiki\" ?",
+      "reponse": "C'est la zone de peau nue qui se trouve entre les chaussettes hautes et la minijupe",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4359",
+      "categorie": "Musique",
+      "question": "En 1989, un tube brésilien chanté par Kaoma allait faire dancer toute la France pendant tout l'été, lequel ?",
+      "reponse": "La lambada",
+      "sousCategorie": "Culture G"
+    },
+    {
+      "id": "4360",
+      "categorie": "Manga Anime",
+      "question": "Dans Chihayafuru, quelle est la classe de karuta dans laquelle Chihaya passe la majorité du récit ?",
+      "reponse": "Classe A",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4361",
+      "categorie": "Anime",
+      "question": "Dans quel anime peut-on voir des gens se battre avec des techniques nommées, par exemple, \"Tétours de Magie\" \"Croupe Coupe-vent\" ou \"Pont d'Avifion\" ?",
+      "reponse": "Keijo",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4362",
+      "categorie": "Manga Anime",
+      "question": "Quel manga possède une suite dont le nom se termine en \":Re\"",
+      "reponse": "Tokyo Ghoul",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4363",
+      "categorie": "Manga",
+      "question": "La question va te paraître bête mais... Tokyo Ghoul ça se passe vraiment à Tokyo ?",
+      "reponse": "Etrangement OUI",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4364",
+      "categorie": "Musique",
+      "question": "Comment se nomment les jumeaux du logiciel Vocaloid 2, ceux qui ont les cheveux jaunes ?",
+      "reponse": "Rin et Len Kagamine",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4365",
+      "categorie": "Anime",
+      "question": "Ton voisin, c'est Totoro, mais quels autres voisins tu peux trouver dans la filmographie du studio Ghibli ?",
+      "reponse": "Les Yamada",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4366",
+      "categorie": "Cinéma / Jeux Vidéo",
+      "question": "Qu'est-ce qui est le plus élevé ? Le nombre de morts de Dark Maul dans la saga Star Wars ou le nombre de versions de Skyrim sorties ?",
+      "reponse": "Dark Maul (4) / Skyrim (3)",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4367",
+      "categorie": "Manga Anime",
+      "question": "In/spectre a débuté en anime en 2020 mais, fun fact, son manga sortait déjà en France, sous quel nom ?",
+      "reponse": "Stranger Case",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4368",
+      "categorie": "Anime",
+      "question": "Kotoko, l'héroïne de In/Spectre, a sacrifiée deux parties de son corps pour communiquer avec les yokai. Pourras tu m'en citer une ?",
+      "reponse": "Sa jambe gauche / Son oeil droit",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4369",
+      "categorie": "Cinéma",
+      "question": "En comptant même ce qui s'est fait de plus honteux, à 2 près, peux-tu me donner le nombre total de films et téléfilms de l'univers Star Wars ?",
+      "reponse": " 15 (1-9, Rogue, Solo, Clone War, le spécial noël et les 2 films ewok)",
+      "sousCategorie": "Culture G"
+    },
+    {
+      "id": "4370",
+      "categorie": "Anime",
+      "question": "Elles font quoi dans leur \"club vidéo\" les héroïnes de Keep Your Hands Off Eizouken ?",
+      "reponse": "Elles créent des animés",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4371",
+      "categorie": "Anime / Cinéma",
+      "question": "A part leur titre, tu peux me citer un point commun entre l'animé Astra et le film Ad Astra ?",
+      "reponse": "Ca se passe dans l'espace / Les deux sont sortis en 2019",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4372",
+      "categorie": "Anime",
+      "question": "Dans Keep Your Hands Off Eizouken, dans quoi est situé la salle des professeurs du lycée des héroïnes ?",
+      "reponse": "Au fond d'une ancienne piscine",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4373",
+      "categorie": "Anime",
+      "question": "Qu'est-ce que les héros de Interspecies Reviewers \"testent\" chaque nuit ?",
+      "reponse": "Des bordels avec des monsters girls",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4374",
+      "categorie": "Anime",
+      "question": "Quel anime a \"To The Top\" dans le nom de sa quatrième saison ?",
+      "reponse": "Haikyuu",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4375",
+      "categorie": "Cinéma",
+      "question": "Comment a été traduit \"Jabba le Hutt\" dans les premières traductions françaises de Star Wars ?",
+      "reponse": "Jabba le Forestier !",
+      "sousCategorie": "Culture G"
+    },
+    {
+      "id": "4376",
+      "categorie": "Manga / Anime",
+      "question": "Comment s'appelle la femme avec qui Ken Kaneki n'aurait jamais dû se faire un ptit rendez-vous amoureux au tout début de Tokyo Ghoul ?",
+      "reponse": "Rize",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4377",
+      "categorie": "Jeu Vidéo",
+      "question": "Connais-tu l’ancien nom du projet qui a donné naissance au jeu Overwatch ?",
+      "reponse": "Le Projet Titan",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4378",
+      "categorie": "Anime",
+      "question": "Dans quel anime une héroïne rejoint un club d'astrologie... qui est fusionné au club de géologie, cherchez pas c'est bizarre",
+      "reponse": "Asteroid in Love",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4379",
+      "categorie": "Manga / Anime",
+      "question": "Si je te dis \"Il mange BEAUCOUP de gyozas\", tu penses au héros de quel manga adapté, en 2020, en anime ?",
+      "reponse": "Dorohedoro",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4380",
+      "categorie": "Anime",
+      "question": "A ton avis Cure Milky elle apparaît dans quelle série Precure ? Dokidoki, Mahoutsukai, Star Twinkle ou Healin Good ?",
+      "reponse": "Star Twinkle Precure",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4381",
+      "categorie": "Manga / Anime",
+      "question": "Une terrible malédiction touche la famille de l'héroïne de Machikado Mazoku !!! Laquelle ?",
+      "reponse": "Sa famille ne peut pas gagner plus de 40 000 yens (~370€) par mois",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4382",
+      "categorie": "Anime",
+      "question": "Dans quel anime un détective, pour élucider des crimes, se projette directement... dans le cerveau des tueurs ?",
+      "reponse": "Id:Invaded",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4383",
+      "categorie": "Anime",
+      "question": "Dans Toilet Bound Hanako-kun, l'héroïne fait un voeu qui la lie à vie au taquin esprit Hanako. Quel est ce voeu ?",
+      "reponse": "Elle voulait juste que son crush la remarque",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4384",
+      "categorie": "Cinéma",
+      "question": "Le long-métrage \"La planète des singes\" de 1968 a donné lieu à des suites, formant une \"première série de film\", mais combien de suites exactement ?",
+      "reponse": "4 (Le secret, Les évadés, La conquête, La bataille)",
+      "sousCategorie": "Culture G"
+    },
+    {
+      "id": "4385",
+      "categorie": "Jeux Vidéo",
+      "question": "Si tu as la chance de jouer à Monster Hunter World, tu as le choix entre combien d’armes déjà ?",
+      "reponse": "14",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4386",
+      "categorie": "Jeux Vidéo",
+      "question": "J’ai un peu dormi pendant ma partie de Dark Soul, tu peux me rappeler le nom du dragon sans écaille ?",
+      "reponse": "Seath L'écorché",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4387",
+      "categorie": "Jeux Vidéo",
+      "question": "Tu... peux... me faire... une dance Fornite ?...",
+      "reponse": "WE LIKE FORTNITE",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4388",
+      "categorie": "Jeux Vidéo",
+      "question": "Quel est le dernier personnage en date sorti sur le jeu Overwatch ?",
+      "reponse": "Sigma",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4389",
+      "categorie": "Délire",
+      "question": "0+0 ?",
+      "reponse": "La tête à Toto §§§",
+      "sousCategorie": "Délire"
+    },
+    {
+      "id": "4390",
+      "categorie": "Anime",
+      "question": "Comment se nomment les 2 célèbres courts-métrages produits en 1981 et 1983 par les futurs créateurs du studio Gainax ? Mais si là, avec la bunny girl qui surfe sur une épée.",
+      "reponse": "Daicon III & IV",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4391",
+      "categorie": "Anime",
+      "question": "Sauras-tu me donner le nom de la SÉRIE Gundam sortie en l'an 2000 ?",
+      "reponse": "Turn A Gundam",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4392",
+      "categorie": "Jeux Vidéo",
+      "question": "Trouve l'intru dans cette liste : Dark Soul, Dark Soul II, Dark Soul III, Bloodborne.",
+      "reponse": "Dark Soul II, Hidetaka Miyazaki n'a pas travaillé dessus",
+      "sousCategorie": "Gamer"
+    },
+    {
+      "id": "4393",
+      "categorie": "Délire",
+      "question": "Parmi nos nombreux streameurs francophones, de qui vient la célèbre phrase : \"Mais c'était sûr en fait !\"",
+      "reponse": "Sardoche",
+      "sousCategorie": "Délire"
+    },
+    {
+      "id": "4394",
+      "categorie": "Geek",
+      "question": "Quel est ce petit appareil vendu par Google qui permet de diffuser le contenu d'un écran ou d'une application sur une télé ?",
+      "reponse": "Le Chromecast",
+      "sousCategorie": "Geek"
+    },
+    {
+      "id": "4395",
+      "categorie": "Culture G",
+      "question": "Que cache le logo de Carrefour ?",
+      "reponse": "Un \"C\" en espace négatif ! :O Ça t'en bouche un coin hein.",
+      "sousCategorie": "Culture G"
+    },
+    {
+      "id": "4396",
+      "categorie": "Tokusatsu",
+      "question": "Avec tes bras, peux-tu me faire le signe d'Ultraman lorsqu'il balance des rayons laser ?",
+      "reponse": "Ultraman Seven !",
+      "sousCategorie": "Otak"
+    },
+    {
+      "id": "4397",
+      "categorie": "Culture G",
+      "question": "Selon Jean-Claude Van Damme, que fait 1+1 ?",
+      "reponse": "1. Ou 11. Et ça c'est beau.",
+      "sousCategorie": "Culture G"
+    },
+    {
+      "id": "4398",
+      "categorie": "Géopolitique",
+      "question": "En quelle année s'est déroulé le référendum qui a plus tard ammené le Brexit ?",
+      "reponse": "2016 (et donc 4 ans pour se mettre d'accord)",
+      "sousCategorie": "Culture G"
+    },
+    {
+      "id": "4399",
+      "categorie": "Culture G",
+      "question": "Combien vaut 1 euro en Francs Français ?",
+      "reponse": "6,55957 FR",
+      "sousCategorie": "Culture G"
+    },
+    {
+      "id": "4400",
+      "categorie": "Culture G",
+      "question": "Combien y a-t-il de pièces de monnaie différentes en euro ?",
+      "reponse": "8",
+      "sousCategorie": "Culture G"
+    },
+    {
+      "id": "4401",
+      "categorie": "Jeux Video",
+      "question": "Au Japon, il s'appelle Dr. Eggman, mais en occident jusqu'à Sonic Adventure, il s'appellait... ?",
+      "reponse": "Dr. Robotnik",
+      "sousCategorie": "Gamer"
     }
   ]
 }

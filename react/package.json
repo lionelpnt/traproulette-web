@@ -1,8 +1,9 @@
 {
   "name": "traproulette",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "@kennethormandy/react-fittext": "^0.6.0",
     "@svgr/cli": "^4.3.3",
     "arrow-keys-react": "1.0.6",
     "axios": "^0.19.0",
@@ -16,9 +17,11 @@
     "react-alert": "^6.0.0",
     "react-alert-template-basic": "^1.0.0",
     "react-dom": "^16.11.0",
-    "react-fittext": "^1.0.0",
+    "react-fittext": "https://github.com/kennethormandy/react-fittext",
     "react-router-dom": "^5.1.2",
-    "react-transition-group": "^4.3.0"
+    "react-textfit": "^1.1.0",
+    "react-transition-group": "^4.3.0",
+    "styled-window-portal": "^1.2.0"
   },
   "devDependencies": {
     "html-webpack-plugin": "3.2.0",

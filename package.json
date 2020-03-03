@@ -1,17 +1,15 @@
 {
   "name": "traproulette",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "express": "^4.17.1",
     "json-server": "lionelpnt/json-server#625c139"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "scripts": {
-
     "start": "yarn run front; yarn run apiserver",
-    "front" : "cd ./react; yarn start; cd ../;",
+    "front": "cd ./react; yarn start; cd ../;",
     "apiserver": "json-server --no-cors --watch --port 4000 api/db.json --routes routes.json"
   },
   "bin": "index.js",

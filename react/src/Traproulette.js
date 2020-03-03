@@ -98,6 +98,7 @@ class Traproulette extends Component {
       } 
       let cptQuestionsMinus = this.props.traprouletteContext.cptQuestions - 1;
       this.props.traprouletteContext.setCptQuestions(cptQuestionsMinus);
+      this.forceUpdate();
     }
   }
 
@@ -115,6 +116,7 @@ class Traproulette extends Component {
         this.props.traprouletteContext.setShowResponse(false);
         this.props.traprouletteContext.setCptQuestions(cptQuestionsPlus);
         this.props.traprouletteContext.setRandom(newRandomArray);
+        this.forceUpdate();
 
       } else {
         let cptQuestionsPlus = this.props.traprouletteContext.cptQuestions + 1;

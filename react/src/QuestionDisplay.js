@@ -1,7 +1,8 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+import PropTypes, { string } from 'prop-types';
 import ThalieLogo from './ThalieLogo';
 import SvgBrouettechan from './brouettechan';
+import FitText from '@kennethormandy/react-fittext';
 
 export default class QuestionDisplay extends React.Component {
 
@@ -9,6 +10,7 @@ export default class QuestionDisplay extends React.Component {
     questionObjet: PropTypes.object.isRequired,
     showResponse: PropTypes.bool.isRequired
   };
+
 
   render() {
     const questionObjet = this.props.questionObjet,
@@ -37,11 +39,17 @@ export default class QuestionDisplay extends React.Component {
             </div>
 
             <div className="row question">
-              { question }
+              <FitText>
+                { question }
+              </FitText>
 
               <div className="row mt-auto ml-auto">
                 {showResponse ? (
-                    <p className="response-display">Réponse : {reponse}</p>
+                    <FitText>
+                      <React.Fragment>
+                      <p className="response-display">Réponse : {reponse}</p>
+                      </React.Fragment>
+                    </FitText>
                   ) : '' }
               </div>
             </div>

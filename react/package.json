@@ -1,0 +1,52 @@
+{
+  "name": "traproulette",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@kennethormandy/react-fittext": "^0.6.0",
+    "@svgr/cli": "^4.3.3",
+    "arrow-keys-react": "1.0.6",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "formsy-react": "^1.1.5",
+    "formsy-react-components": "^1.1.0",
+    "json-server": "lionelpnt/json-server#625c139",
+    "prop-types": "^15.7.2",
+    "react": "^16.11.0",
+    "react-alert": "^6.0.0",
+    "react-alert-template-basic": "^1.0.0",
+    "react-dom": "^16.11.0",
+    "react-fittext": "https://github.com/kennethormandy/react-fittext",
+    "react-router-dom": "^5.1.2",
+    "react-textfit": "^1.1.0",
+    "react-transition-group": "^4.3.0",
+    "styled-window-portal": "^1.2.0"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "3.2.0",
+    "lodash": "^4.17.15",
+    "pkg": "^4.4.0",
+    "react-scripts": "3.2.0",
+    "styled-components": "4.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start & npm run apiserver",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "apiserver": "cd ../ && json-server --no-cors --watch --port 4000 api/db.json --routes routes.json",
+    "build:svg": "svgr --no-dimensions --filename-case camel --out-dir src/ src/resources/",
+    "build:help": "svgr -h",
+    "pkg": "react-scripts build && npx pkg ./package.json"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

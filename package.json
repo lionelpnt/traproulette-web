@@ -1,25 +1,25 @@
 {
   "name": "traproulette",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "express": "^4.17.1",
+    "json-server": "lionelpnt/json-server#625c139"
   },
+  "devDependencies": {},
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "yarn run front; yarn run apiserver",
+    "front": "cd ./react; yarn start; cd ../;",
+    "apiserver": "json-server --no-cors --watch --port 4000 api/db.json --routes routes.json"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "bin": "index.js",
+  "pkg": {
+    "scripts": [
+      "servers/**/*.js"
+    ],
+    "assets": [
+      "react/build/**/*",
+      "api/**/*"
+    ]
+  }
 }
